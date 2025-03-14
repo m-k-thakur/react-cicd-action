@@ -6,6 +6,6 @@
     "\\public",
     "\\src"
   ],
-  "SelectedNode": "\\.github\\workflows\\greeting.yaml",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\.github\\workflows\\deployDist.yaml",
+  "PreviewInSolutionExplorer": true
 }
