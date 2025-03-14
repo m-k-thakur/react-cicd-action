@@ -1,4 +1,4 @@
-name: Deploy Dist
+name: Deploy React to github pages
 on:
   push:
     branches:
