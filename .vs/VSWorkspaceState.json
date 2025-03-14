@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\public",
+    "\\src"
+  ],
+  "SelectedNode": "\\.github\\workflows\\greeting.yaml",
+  "PreviewInSolutionExplorer": false
+}
