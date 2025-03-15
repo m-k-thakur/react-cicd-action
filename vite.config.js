@@ -8,5 +8,5 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: ['./vitest.setup.js'],
   },
-  base: '/eact-cicd-actions/'
+  base: '/eact-cicd-action/'
 })
